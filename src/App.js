@@ -20,8 +20,8 @@ function App() {
 
   // Grabbing full email info via fetch
   const [emailsFull, setEmailsFull] = useState([]);
-  const [filterEmail, setFilterEmail] = useState("");
-  const [filteredEmails, setFilteredEmails] = useState([]);
+  // const [filterEmail, setFilterEmail] = useState("");
+  // const [filteredEmails, setFilteredEmails] = useState([]);
 
   useEffect(() => {
     const fetchEmails = async () => {
