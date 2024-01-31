@@ -1,0 +1,15 @@
+.cardlist {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+        grid-gap: 20px 0px; 
+}
+
+@media only screen and (max-width: 815px) {
+    .cardlist {
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 20px 0px; 
+    }
+}

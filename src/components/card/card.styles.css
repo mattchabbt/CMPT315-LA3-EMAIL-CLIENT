@@ -1,0 +1,25 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #95dada; /* not-read: #d83f3f; read: #79d871 */
+    border: 4px solid grey;
+    border-radius: 5px;
+    padding: 16px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+
+.card-container:hover {
+    transform: scale(1.02);
+}
+
+.read-false {
+    background-color: #d83f3f;
+}
+
+.read-true {
+    background-color: #79d871;
+}
