@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mattchabbt/CMPT315-LA3-EMAIL-CLIENT/static/css/main.a55c385d.css",
+    "main.js": "/mattchabbt/CMPT315-LA3-EMAIL-CLIENT/static/js/main.2882c82f.js",
+    "static/js/787.622a49d0.chunk.js": "/mattchabbt/CMPT315-LA3-EMAIL-CLIENT/static/js/787.622a49d0.chunk.js",
+    "index.html": "/mattchabbt/CMPT315-LA3-EMAIL-CLIENT/index.html",
+    "main.a55c385d.css.map": "/mattchabbt/CMPT315-LA3-EMAIL-CLIENT/static/css/main.a55c385d.css.map",
+    "main.2882c82f.js.map": "/mattchabbt/CMPT315-LA3-EMAIL-CLIENT/static/js/main.2882c82f.js.map",
+    "787.622a49d0.chunk.js.map": "/mattchabbt/CMPT315-LA3-EMAIL-CLIENT/static/js/787.622a49d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a55c385d.css",
+    "static/js/main.2882c82f.js"
+  ]
+}
